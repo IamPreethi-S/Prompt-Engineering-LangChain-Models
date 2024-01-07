@@ -1,0 +1,7 @@
+### Prompt engineering  - LangChain model
+Here I'm trying to learn and get hands-on LLM models foundation
+
+##### Utilized the prompt engineering concept and played around the below prompts
+1. Ask data science concepts prompt
+2. Language Translator prompt
+3. Training the LLM models using examples and getting output for the input prompt
